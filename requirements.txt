@@ -82,5 +82,5 @@ zipp==1.0.0
 zope.interface==5.4.0
 
 # GitHub dependencies (ensure these are required)
-librespot @ git+https://github.com/kokarare1212/librespot-python.git@3b46fe560ad829b976ce63e85012cff95b1e0bf3
-zotify @ git+https://zotify.xyz/zotify/zotify.git@fa2156b2a17627578860ee7ec2732e41d4f25afc
+#librespot @ git+https://github.com/kokarare1212/librespot-python.git@3b46fe560ad829b976ce63e85012cff95b1e0bf3
+#zotify @ git+https://zotify.xyz/zotify/zotify.git@fa2156b2a17627578860ee7ec2732e41d4f25afc
