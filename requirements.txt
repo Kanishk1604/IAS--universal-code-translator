@@ -1,3 +1,6 @@
+setuptools>=58.0.0
+wheel
+Cython>=0.29.21
 async-timeout==4.0.3
 attrs==24.2.0
 Automat==20.2.0
@@ -86,6 +89,3 @@ zope.interface==5.4.0
 #zotify @ git+https://zotify.xyz/zotify/zotify.git@fa2156b2a17627578860ee7ec2732e41d4f25afc
 # Install build tools first
 
-setuptools>=58.0.0
-wheel
-Cython
